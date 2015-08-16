@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Top Movie Collections</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string-array name="movie_titles">
+        <item>Baahubali</item>
+        <item>Srimanthudu</item>
+        <item>Attarintiki Daredi</item>
+        <item>Magadheera</item>
+        <item>Gabbar Singh</item>
+        <item>Race Gurram</item>
+        <item>Dookudu</item>
+    </string-array>
+    <string-array name="movie_collections">
+        <item>INR 280cr</item>
+        <item>INR 80cr</item>
+        <item>INR 74cr</item>
+        <item>INR 73cr</item>
+        <item>INR 63cr</item>
+        <item>INR 59cr</item>
+        <item>INR 56cr</item>
+    </string-array>
+
+</resources>
